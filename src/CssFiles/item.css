@@ -1,0 +1,73 @@
+.item-view {
+  height: 70px;
+}
+.col-md-3 {
+  height: inherit;
+  margin: auto;
+}
+.col-md-6 {
+  height: inherit;
+}
+span {
+  margin-top: 15px;
+}
+.badge {
+  background-color: #fff;
+  color: #333;
+  font-size: 35px;
+  font-weight: bold;
+  width: 60px;
+  line-height: 2;
+  border-radius: 50%;
+}
+.c-warning {
+  background-color: #ffc107;
+  color: #212529;
+  font-size: 25px;
+  font-weight: bold;
+  width: 60px;
+  line-height: 2.5;
+  border-radius: 40%;
+  padding: 10px;
+}
+.c-primary {
+  background-color: #007bff;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  width: 60px;
+  line-height: 2.5;
+  border-radius: 40%;
+}
+#vote-btn {
+  margin-top: 15px;
+  background-color: #f8f9fa;
+  color: #333;
+  font-weight: bold;
+  font-size: 15px;
+  border: 2px solid #0f0101;
+  border-radius: 15px;
+}
+#vote-btn:hover {
+  margin-top: 15px;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+  border: 2px solid #333;
+  border-radius: 15px;
+}
+.item-st {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.item-view {
+  background-color: #fff;
+  border: solid 2px black;
+  border-radius: 15px;
+  margin: 10px;
+}
