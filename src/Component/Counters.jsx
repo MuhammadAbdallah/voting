@@ -5,7 +5,7 @@ class Counters extends Component {
     return (
       <div>
         <div className="jumbotron text-center">
-          <h1 className="text-primary">Voting App </h1>
+          <h1 className="text-primary">Voting Application </h1>
         </div>
         <div className="container">
           {this.props.langauges.map((language) => (
